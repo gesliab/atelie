@@ -1,3 +1,3 @@
 # atelie
-Olá, me chamo Geslia, sou professora, formada em Engenharia Química, e também sou artesã.
+Olá, me chamo Geslia, sou formada em Engenharia Química, atualmente sou professora e também artesã.
 > 
