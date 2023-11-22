@@ -11,8 +11,6 @@ p{
     text-align:center;
     color: gray;
 }
-img{
-    background: pink;
-    width: 400px;
-    text-align: center;
+.img{
+   text-align: center;
 }
