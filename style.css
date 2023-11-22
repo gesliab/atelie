@@ -17,6 +17,7 @@ p{
 footer{
     background-color: pink;
     text-align: center;
+    padding: 4px;
 }
 .principal{
     min-height: 100vh;
