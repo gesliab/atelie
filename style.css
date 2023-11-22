@@ -11,11 +11,14 @@ p{
     text-align:center;
     color: gray;
 }
-.img{
+#img{
    text-align: center;
 }
 footer{
     background-color: pink;
     color:palevioletred;
     text-align: center;
+}
+.principal{
+    min-height: 100vh;
 }
